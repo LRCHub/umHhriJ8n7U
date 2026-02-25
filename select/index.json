@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ヒバナ -Reloaded-",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-02-25T09:42:49.760114Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded-",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_ヒバナ_-Reloaded-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded- (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_ヒバナ_-Reloaded-_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded-",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/03_ヒバナ_-Reloaded-_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒバナ –Reloaded-",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_ヒバナ_–Reloaded-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded-",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/05_ヒバナ_-Reloaded-_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded- - HIBANA -Reloaded- (feat. 星乃一歌",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/06_ヒバナ_-Reloaded-_-_HIBANA_-Reloaded-_(feat._星乃一歌_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded- (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/07_ヒバナ_-Reloaded-_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒバナ",
+      "artist": "Araki",
+      "has_synced": true,
+      "path": "select/08_ヒバナ_Araki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒバナ-Reloaded",
+      "artist": "DECO*27, Rockwell",
+      "has_synced": true,
+      "path": "select/09_ヒバナ-Reloaded_DECO_27,_Rockwell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒバナ",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_ヒバナ_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒバナ (Reloaded)",
+      "artist": "Holo*27",
+      "has_synced": true,
+      "path": "select/11_ヒバナ_(Reloaded)_Holo_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded-",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/12_ヒバナ_-Reloaded-_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒバナ -Reloaded-",
+      "artist": "星乃一歌 (野口瑠璃子) & 初音ミク",
+      "has_synced": false,
+      "path": "select/13_ヒバナ_-Reloaded-_星乃一歌_(野口瑠璃子)_&_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヒバナ feat.Sanra",
+      "artist": "Kobasolo feat. sanRa",
+      "has_synced": true,
+      "path": "select/14_ヒバナ_feat.Sanra_Kobasolo_feat._sanRa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヒバナ feat.Sanra",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/15_ヒバナ_feat.Sanra_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ヒバナ - ES Cover",
+      "artist": "MILGRAM エス (CV: 天海由梨奈)",
+      "has_synced": true,
+      "path": "select/16_ヒバナ_-_ES_Cover_MILGRAM_エス_(CV__天海由梨奈).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ヒバナ -ES Cover-",
+      "artist": "エス (天海由梨奈)",
+      "has_synced": true,
+      "path": "select/17_ヒバナ_-ES_Cover-_エス_(天海由梨奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒバナ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ヒバナ_DECO_27.txt"
+    }
+  ]
+}
